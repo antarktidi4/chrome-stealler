@@ -1,0 +1,3 @@
+cryptography
+win32crypt
+sqlite3
